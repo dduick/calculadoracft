@@ -30,3 +30,4 @@ switch (operacion) {
     resultado = numero1 / numero2
     console.log(resultado)
 }
+/* Este esta editado por mi*/
